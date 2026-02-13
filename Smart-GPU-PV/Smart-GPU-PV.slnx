@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Smart-GPU-PV/Smart-GPU-PV.vcxproj" Id="e1af0944-4642-4813-89d8-6eac5f07d792" />
+</Solution>
